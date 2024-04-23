@@ -1,4 +1,5 @@
 // PLease check with your own API key
+// Weather App
 const apiKey = '2b628d2a793246e7dfb84368faa67794';  
 
 document.getElementById('searchBtn').addEventListener('click', () => {
